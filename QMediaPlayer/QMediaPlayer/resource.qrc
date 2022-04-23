@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>Resource/icon/btn_mute_1.png</file>
+        <file>Resource/icon/btn_mute_2.png</file>
+        <file>Resource/icon/btn_next_1.png</file>
+        <file>Resource/icon/btn_next_2.png</file>
+        <file>Resource/icon/btn_pause_1.png</file>
+        <file>Resource/icon/btn_pause_2.png</file>
+        <file>Resource/icon/btn_play_1.png</file>
+        <file>Resource/icon/btn_play_2.png</file>
+        <file>Resource/icon/btn_previous_1.png</file>
+        <file>Resource/icon/btn_previous_2.png</file>
+        <file>Resource/icon/btn_vol_1.png</file>
+        <file>Resource/icon/btn_vol_2.png</file>
+        <file>Resource/icon/handle.png</file>
+        <file>Resource/icon/menu.png</file>
+        <file>Resource/icon/openfile_1.png</file>
+        <file>Resource/icon/openfile_2.png</file>
+        <file>Resource/icon/menu_clicked.png</file>
+    </qresource>
+</RCC>

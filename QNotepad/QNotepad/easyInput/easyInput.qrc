@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/delete_white.png</file>
+        <file>image/upper_white.png</file>
+    </qresource>
+</RCC>

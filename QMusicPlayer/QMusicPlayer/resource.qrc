@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>Resource/icon/btn_listcircle_1.png</file>
+        <file>Resource/icon/btn_listcircle_2.png</file>
+        <file>Resource/icon/btn_listjump_1.png</file>
+        <file>Resource/icon/btn_listjump_2.png</file>
+        <file>Resource/icon/btn_listrandom_1.png</file>
+        <file>Resource/icon/btn_listrandom_2.png</file>
+        <file>Resource/icon/btn_listscircle_single_1.png</file>
+        <file>Resource/icon/btn_listscircle_single_2.png</file>
+        <file>Resource/icon/btn_listsingle_1.png</file>
+        <file>Resource/icon/btn_listsingle_2.png</file>
+        <file>Resource/icon/btn_mute_1.png</file>
+        <file>Resource/icon/btn_mute_2.png</file>
+        <file>Resource/icon/btn_next_1.png</file>
+        <file>Resource/icon/btn_next_2.png</file>
+        <file>Resource/icon/btn_pause_1.png</file>
+        <file>Resource/icon/btn_pause_2.png</file>
+        <file>Resource/icon/btn_play_1.png</file>
+        <file>Resource/icon/btn_play_2.png</file>
+        <file>Resource/icon/btn_previous_1.png</file>
+        <file>Resource/icon/btn_previous_2.png</file>
+        <file>Resource/icon/btn_vol_1.png</file>
+        <file>Resource/icon/btn_vol_2.png</file>
+        <file>Resource/icon/handle.png</file>
+        <file>Resource/icon/menu.png</file>
+        <file>Resource/icon/menu_clicked.png</file>
+        <file>Resource/icon/photo_1.png</file>
+        <file>Resource/icon/photo_2.png</file>
+        <file>Resource/icon/settings_1.png</file>
+        <file>Resource/icon/settings_2.png</file>
+    </qresource>
+</RCC>

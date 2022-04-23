@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/btn_checked.png</file>
+        <file>icon/btn_unchecked.png</file>
+        <file>icon/led_off.png</file>
+        <file>icon/led_on.png</file>
+        <file>icon/beep_off.png</file>
+        <file>icon/beep_on.png</file>
+        <file>icon/close.png</file>
+        <file>icon/close_hover.png</file>
+    </qresource>
+</RCC>

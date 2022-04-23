@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/back.png</file>
+        <file>icon/close.png</file>
+        <file>icon/forward.png</file>
+        <file>icon/goto.png</file>
+        <file>icon/home.png</file>
+        <file>icon/menu.png</file>
+        <file>icon/menu_clicked.png</file>
+        <file>icon/refresh.png</file>
+        <file>icon/zoom_in.png</file>
+        <file>icon/zoom_out.png</file>
+    </qresource>
+</RCC>

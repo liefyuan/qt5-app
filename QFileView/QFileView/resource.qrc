@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>Resource/icon/c.png</file>
+        <file>Resource/icon/exec.png</file>
+        <file>Resource/icon/folder.png</file>
+        <file>Resource/icon/Gen.png</file>
+        <file>Resource/icon/Home.png</file>
+        <file>Resource/icon/menu.png</file>
+        <file>Resource/icon/menu_clicked.png</file>
+        <file>Resource/icon/movie.png</file>
+        <file>Resource/icon/mp3.png</file>
+        <file>Resource/icon/paper.png</file>
+        <file>Resource/icon/rar.png</file>
+        <file>Resource/icon/Recent.png</file>
+        <file>Resource/icon/sh.png</file>
+        <file>Resource/icon/tar.bz2.png</file>
+        <file>Resource/icon/tar.gz.png</file>
+        <file>Resource/icon/txt.png</file>
+        <file>Resource/icon/up_1.png</file>
+        <file>Resource/icon/up_2.png</file>
+        <file>Resource/icon/zip.png</file>
+    </qresource>
+</RCC>

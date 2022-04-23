@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>Resource/icons/btn_mute_1.png</file>
+        <file>Resource/icons/btn_mute_2.png</file>
+        <file>Resource/icons/btn_next_1.png</file>
+        <file>Resource/icons/btn_next_2.png</file>
+        <file>Resource/icons/btn_pause_1.png</file>
+        <file>Resource/icons/btn_pause_2.png</file>
+        <file>Resource/icons/btn_play_1.png</file>
+        <file>Resource/icons/btn_play_2.png</file>
+        <file>Resource/icons/btn_previous_1.png</file>
+        <file>Resource/icons/btn_previous_2.png</file>
+        <file>Resource/icons/btn_vol_1.png</file>
+        <file>Resource/icons/btn_vol_2.png</file>
+        <file>Resource/icons/checked.png</file>
+        <file>Resource/icons/delete_1.png</file>
+        <file>Resource/icons/delete_2.png</file>
+        <file>Resource/icons/handle.png</file>
+        <file>Resource/icons/linein.png</file>
+        <file>Resource/icons/menu.png</file>
+        <file>Resource/icons/menu_clicked.png</file>
+        <file>Resource/icons/micin.png</file>
+        <file>Resource/icons/recorder_1.png</file>
+        <file>Resource/icons/recorder_2.png</file>
+        <file>Resource/icons/recorder_stop_1.png</file>
+        <file>Resource/icons/recorder_stop_2.png</file>
+        <file>Resource/icons/unchecked.png</file>
+    </qresource>
+</RCC>

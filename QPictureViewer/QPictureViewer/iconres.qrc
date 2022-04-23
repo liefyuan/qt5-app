@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>Resource/exit1.png</file>
+        <file>Resource/exit2.png</file>
+        <file>Resource/bg1.png</file>
+        <file>Resource/delete1.png</file>
+        <file>Resource/delete2.png</file>
+        <file>Resource/delete3.png</file>
+        <file>Resource/enlarge1.png</file>
+        <file>Resource/enlarge2.png</file>
+        <file>Resource/fullScreen1.png</file>
+        <file>Resource/fullScreen2.png</file>
+        <file>Resource/listMode1.png</file>
+        <file>Resource/listMode2.png</file>
+        <file>Resource/next1.png</file>
+        <file>Resource/next2.png</file>
+        <file>Resource/play1.png</file>
+        <file>Resource/play2.png</file>
+        <file>Resource/preview1.png</file>
+        <file>Resource/preview2.png</file>
+        <file>Resource/previewMode1.png</file>
+        <file>Resource/previewMode2.png</file>
+        <file>Resource/previous1.png</file>
+        <file>Resource/previous2.png</file>
+        <file>Resource/reduce1.png</file>
+        <file>Resource/reduce2.png</file>
+        <file>Resource/refresh1.png</file>
+        <file>Resource/refresh2.png</file>
+        <file>Resource/return1.png</file>
+        <file>Resource/return2.png</file>
+        <file>Resource/rotateNegative90_1.png</file>
+        <file>Resource/rotateNegative90_2.png</file>
+        <file>Resource/rotatePositive90_1.png</file>
+        <file>Resource/rotatePositive90_2.png</file>
+        <file>Resource/stop1.png</file>
+        <file>Resource/stop2.png</file>
+        <file>Resource/close.png</file>
+        <file>Resource/close_hover.png</file>
+    </qresource>
+</RCC>
